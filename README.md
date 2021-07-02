@@ -1,5 +1,10 @@
-"# WeatherApp" 
+# Aplicativo de Clima para a Builders
+<img src="https://i.imgur.com/QjOyqCI_d.webp?maxwidth=760&fidelity=grand">
 
--- Tutorial youtube: https://youtu.be/Ia5zW8wkAdI
+## COMANDOS PARA RODAR O APP
+# Markdown
 
-<img src="https://user-images.githubusercontent.com/48888681/87414457-39019400-c5a2-11ea-916a-da08dd087d23.png">
+1. CLONE O PROJETO
+2. RODE O YARN INSTALL PARA INSTALAR AS DEPENDÊNCIAS
+3. EXECUTE O COMANDO EXPO START
+4. OBS* EXECUTE O PROJETO PELO DISPOSITIVO FÍSICO, PARA CONSEGUIR PEGAR A LOCALIZAÇÃO CORRETA, CASO CONTRÁRIO PODE ACONTECER ALGUM BUG
