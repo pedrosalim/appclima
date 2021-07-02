@@ -1,5 +1,5 @@
 # Aplicativo de Clima para a Builders
-<img src="https://i.imgur.com/QjOyqCI_d.webp?maxwidth=760&fidelity=grand">
+<img src="./assets/builders.png">
 
 ## COMANDOS PARA RODAR O APP
 # Markdown
